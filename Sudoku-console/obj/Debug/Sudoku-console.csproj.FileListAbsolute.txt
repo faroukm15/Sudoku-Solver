@@ -1,0 +1,6 @@
+F:\TROJAN\programming\Sudoku-console\Sudoku-console\bin\Debug\Sudoku-console.exe.config
+F:\TROJAN\programming\Sudoku-console\Sudoku-console\obj\Debug\Sudoku-console.csprojResolveAssemblyReference.cache
+F:\TROJAN\programming\Sudoku-console\Sudoku-console\bin\Debug\Sudoku-console.exe
+F:\TROJAN\programming\Sudoku-console\Sudoku-console\bin\Debug\Sudoku-console.pdb
+F:\TROJAN\programming\Sudoku-console\Sudoku-console\obj\Debug\Sudoku-console.exe
+F:\TROJAN\programming\Sudoku-console\Sudoku-console\obj\Debug\Sudoku-console.pdb
